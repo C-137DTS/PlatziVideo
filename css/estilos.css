@@ -10,6 +10,9 @@ h2 {
     color: white;
     margin: 0;
 }
+::-webkit-scrollbar {
+    display: none;
+}
 
 /* Header */
 .header {
@@ -161,5 +164,4 @@ h2 {
 .carousel-item__details:hover {
     opacity: 0.9;
 }
-
 /* /Carousel */
